@@ -1,0 +1,92 @@
+.imagencover {
+    display: flex;
+    background-image: url(../21034577_10213384892677302_3280585253909956276_n.jpg);
+background-position: center center;
+width: 100%;
+height: 100%;
+background-size: cover;
+
+
+}
+
+h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    left: 50%;
+    text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+background-position: center;
+color: white;
+display: flex;
+
+
+
+}
+
+.imagenleila {
+    background-position: left;
+    width: 700px;
+    height: 700px;
+    display: inline;
+    padding: left;
+}
+
+.menu {
+    background-color: grey;
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    align-items: center;
+    color: white;
+    padding: 15px;
+    margin: 3%;
+    justify-content: space-between;
+    }
+
+
+
+h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.redes {
+    width: 100%;
+    text-align: right;
+    display: flex;
+    color: white;
+}
+
+.red { 
+    width: 25px;
+    height: 25px;
+    padding: 7px;
+    display: block;
+    text-align: right;
+}
+
+.infototal {
+    display: flex;
+    height: 100%;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.parra {
+    color: black;
+    text-align: left;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    margin: 30px;
+    padding: 30px;
+}
+
+.footer {
+text-align: center;
+
+}
